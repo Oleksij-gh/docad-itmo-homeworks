@@ -15,7 +15,7 @@ namespace _4._2._1
             Console.WriteLine("Введите число, для которого необходимо вычислить квадрат");
             N = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i < N+1; i++)
+            for (int i = 1; i < N + 1; i++)
             {
                 square += 2 * i - 1;
             }
