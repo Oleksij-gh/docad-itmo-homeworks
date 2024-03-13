@@ -9,12 +9,12 @@ namespace Task_12._2._1
 {
     static class Circle
     {
-        static public double Lenght(double radius)
+        static public double GetLenght(double radius)
         {
             return 2 * Math.PI * radius;
         }
 
-        static public double Square(double radius)
+        static public double GetArea(double radius)
         {
             return Math.PI * radius;
         }

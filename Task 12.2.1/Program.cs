@@ -19,7 +19,7 @@ namespace Task_12._2._1
             Console.Write("R = ");
             R = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine($"Длина окружности: {Circle.Lenght(R)}\nПлощадь окружности: {Circle.Square(R)}");
+            Console.WriteLine($"Длина окружности: {Circle.GetLenght(R)}\nПлощадь окружности: {Circle.GetArea(R)}");
 
             if (Circle.PointInCircle(x, y, R)){
                 Console.WriteLine("Точка находится в окружности.");
