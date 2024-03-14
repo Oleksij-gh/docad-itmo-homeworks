@@ -3,19 +3,19 @@
 
 Чеклист:
 
-- [x] ТЕМА 1. ОБЩИЕ СВЕДЕНИЯ О ЯЗЫКЕ C#
-- [x] ТЕМА 2. ПЕРВАЯ ПРОГРАММА НА ЯЗЫКЕ C#
-- [x] ТЕМА 3. УСЛОВНЫЕ ОПЕРАТОРЫ
-- [x] ТЕМА 4. ОПЕРАТОРЫ ЦИКЛОВ
-- [x] ТЕМА 5. МАССИВЫ
-- [x] ТЕМА 6. ОБРАБОТКА СТРОК
-- [x] ТЕМА 7. МЕТОДЫ
-- [x] ТЕМА 8. РАБОТА С ФАЙЛОВОЙ СИСТЕМОЙ
-- [x] ТЕМА 9. ОБРАБОТКА ИСКЛЮЧЕНИЙ
-- [x] ТЕМА 10. ВВЕДЕНИЕ В ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ
-- [x] ТЕМА 11. МОДИФИКАТОРЫ ДОСТУПА
-- [x] ТЕМА 12. СТАТИЧЕСКИЕ ЧЛЕНЫ И МОДИФИКАТОР STATIC
-- [x] ТЕМА 13. НАСЛЕДОВАНИЕ
+- [x] ТЕМА 1. ОБЩИЕ СВЕДЕНИЯ О ЯЗЫКЕ C# 
+- [x] ТЕМА 2. ПЕРВАЯ ПРОГРАММА НА ЯЗЫКЕ C# [Task 2.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%202.2.1)
+- [x] ТЕМА 3. УСЛОВНЫЕ ОПЕРАТОРЫ [Task 3.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%203.2.1), [Task 3.2.3](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%203.2.3)
+- [x] ТЕМА 4. ОПЕРАТОРЫ ЦИКЛОВ [Task 4.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%204.2.1)
+- [x] ТЕМА 5. МАССИВЫ [Task 5.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%205.2.1), [Task 5.2.5](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%205.2.5)
+- [x] ТЕМА 6. ОБРАБОТКА СТРОК [Task 6.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%206.2.1), [Task 6.2.2](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/master/Task%206.2.2)
+- [x] ТЕМА 7. МЕТОДЫ [Task 7.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%207.2.1), [Task 7.2.2](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%207.2.2)
+- [x] ТЕМА 8. РАБОТА С ФАЙЛОВОЙ СИСТЕМОЙ [Task 8.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%208.2.1), [Task 8.2.2](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%208.2.2)
+- [x] ТЕМА 9. ОБРАБОТКА ИСКЛЮЧЕНИЙ [Task 9.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%209.2.1)
+- [x] ТЕМА 10. ВВЕДЕНИЕ В ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ [Task 10.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%2010.2.1)
+- [x] ТЕМА 11. МОДИФИКАТОРЫ ДОСТУПА [Task 11.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%2011.2.1)
+- [x] ТЕМА 12. СТАТИЧЕСКИЕ ЧЛЕНЫ И МОДИФИКАТОР STATIC [Task 12.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%2012.2.1)
+- [x] ТЕМА 13. НАСЛЕДОВАНИЕ [Task 13.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%2013.2.1)
 - [ ] ТЕМА 14. ВИРТУАЛЬНЫЕ МЕТОДЫ И СВОЙСТВА. АБСТРАКТНЫЕ КЛАССЫ.
 - [ ] ТЕМА 15. ИНТЕРФЕЙСЫ
 - [ ] ТЕМА 16. РАБОТА С JSON
