@@ -15,7 +15,7 @@
 - [x] ТЕМА 12. СТАТИЧЕСКИЕ ЧЛЕНЫ И МОДИФИКАТОР STATIC [Task 12.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%2012.2.1)
 - [x] ТЕМА 13. НАСЛЕДОВАНИЕ [Task 13.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/f28dd29d4270ea81ffd2d05276d82f589900608b/Task%2013.2.1)
 - [x] ТЕМА 14. ВИРТУАЛЬНЫЕ МЕТОДЫ И СВОЙСТВА. АБСТРАКТНЫЕ КЛАССЫ. [Task 14.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/c06dc7851a983dc714000ce3981718c017e85fff/Task%2014.2.1)
-- [ ] ТЕМА 15. ИНТЕРФЕЙСЫ [Task 15.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/c0ec2070d28eae0e9a70adb2413babfb8ca614ee/Task%2015.2.1)
+- [x] ТЕМА 15. ИНТЕРФЕЙСЫ [Task 15.2.1](https://github.com/Oleksij-gh/docad-itmo-homeworks/tree/c0ec2070d28eae0e9a70adb2413babfb8ca614ee/Task%2015.2.1)
 - [ ] ТЕМА 16. РАБОТА С JSON
 - [ ] ТЕМА 17. ОБОБЩЁННЫЕ ТИПЫ (GENERICS)
 - [ ] ТЕМА 18. КОЛЛЕКЦИИ
